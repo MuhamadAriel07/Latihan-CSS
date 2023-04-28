@@ -1,8 +1,6 @@
 #tabel-siswa {
     border-collapse: collapse;
-    background-image: url("background.jpg");
-    background-size: 100%;
-    background-repeat: no-repeat;
+    background-color: lightblue;
 
     border-width: 1px;
     border-style: solid;
